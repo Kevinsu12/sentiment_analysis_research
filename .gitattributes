@@ -1,1 +1,2 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
+data/Bert_training/processed_text.csv filter=lfs diff=lfs merge=lfs -text
